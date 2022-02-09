@@ -1,0 +1,6 @@
+a=int(input('enter an integer value:')) 
+remainder=a%2
+if a%2==0 :
+  print('Given no. is even') 
+else :
+  print('Given no. is odd') 
